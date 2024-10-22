@@ -4,7 +4,7 @@
 
 I'm Rhett, an electrical engineering student majoring in computer engineering at the Univeristy of Queensland.
 
-Interested in embedded and RF systems as well as power electronics and enjoy building my own projects focused around these two fields.
+Interested in embedded and RF systems as well as power electronics and enjoy building my own projects focused around these fields.
 
 ### Completed Projects
 * [The Big One](https://github.com/TheZ0/The-Big-One/tree/master) - 1kJ projectile accelerator
