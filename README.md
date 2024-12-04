@@ -11,7 +11,7 @@ Interested in embedded and RF systems as well as power electronics and enjoy bui
 * [Accy](https://github.com/TheZ0/Accy) - Compact accelerometer module
 * [UFV](https://github.com/TheZ0/UFV) - Unmanned Firefighting Vehicle
 * [Ruthless RFID](https://github.com/TheZ0/Ruthless-RFID) - RFID reader/writer/cloner compliant with ISO/IEC 14443 standard
+* [HVDC](https://github.com/Rhetticle/HVDC) - High Voltage Arc Lighter
 
 ### Currently working on
-* [MBED](https://github.com/TheZ0/MBED) - Single board computer capable of running the Linux kernel
 * [Altium Master Library](https://github.com/TheZ0/Altium-Master-Library) - SchLib and PcbLib libraries for Altium designer for components I commonly use
