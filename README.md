@@ -14,4 +14,5 @@ Interested in embedded and RF systems as well as power electronics and enjoy bui
 * [HVDC](https://github.com/Rhetticle/HVDC) - High Voltage Arc Lighter
 
 ### Currently working on
+* [TX-10](https://github.com/Rhetticle/TX-10) - CB/UHF Radio
 * [Altium Master Library](https://github.com/TheZ0/Altium-Master-Library) - SchLib and PcbLib libraries for Altium designer for components I commonly use
