@@ -28,5 +28,5 @@ Interested in embedded and RF systems as well as power electronics and enjoy bui
 </p>
 
 # Currently working on
-## [TX-10](https://github.com/Rhetticle/TX-10) - CB/UHF Radio
+## [DGAS](https://github.com/Rhetticle/DGAS) - Digital Gauge Awareness System
 
