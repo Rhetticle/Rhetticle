@@ -9,8 +9,8 @@ Interested in embedded and RF systems as well as power electronics and enjoy bui
 ![image](https://github.com/user-attachments/assets/a2a5793f-34da-4d00-b46b-1514f84bb48d)
 
 ## [DGAS](https://github.com/Rhetticle/DGAS) - Digital Gauge Awareness System
-![dgas](https://github.com/user-attachments/assets/2064eb17-eca9-4114-9e82-3063a13a6c68)
-![engine spped small](https://github.com/user-attachments/assets/c9065faa-f549-4683-857e-e24539f3485a)
+<img src="https://github.com/user-attachments/assets/2064eb17-eca9-4114-9e82-3063a13a6c6" width=400>
+<img src="https://github.com/user-attachments/assets/c9065faa-f549-4683-857e-e24539f3485a" width=400>
 
 ## [Ruthless RFID](https://github.com/TheZ0/Ruthless-RFID) - RFID reader/writer/cloner compliant with ISO/IEC 14443 standard
 <p align="center">
