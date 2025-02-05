@@ -4,9 +4,13 @@ I'm Rhett, an electrical engineering student majoring in computer engineering at
 
 Interested in embedded and RF systems as well as power electronics and enjoy building my own projects focused around these fields.
 
-# Completed Projects
+# Projects
 ## [The Big One](https://github.com/TheZ0/The-Big-One/tree/master) - 1kJ projectile accelerator
 ![image](https://github.com/user-attachments/assets/a2a5793f-34da-4d00-b46b-1514f84bb48d)
+
+## [DGAS](https://github.com/Rhetticle/DGAS) - Digital Gauge Awareness System
+![dgas](https://github.com/user-attachments/assets/2064eb17-eca9-4114-9e82-3063a13a6c68)
+![engine spped small](https://github.com/user-attachments/assets/c9065faa-f549-4683-857e-e24539f3485a)
 
 ## [Ruthless RFID](https://github.com/TheZ0/Ruthless-RFID) - RFID reader/writer/cloner compliant with ISO/IEC 14443 standard
 <p align="center">
@@ -26,7 +30,3 @@ Interested in embedded and RF systems as well as power electronics and enjoy bui
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1b40d543-43e5-4f43-93fc-0ae9290b9aeb"/>
 </p>
-
-# Currently working on
-## [DGAS](https://github.com/Rhetticle/DGAS) - Digital Gauge Awareness System
-
