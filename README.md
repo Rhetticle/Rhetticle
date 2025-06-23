@@ -14,10 +14,10 @@
   <img src="https://github.com/user-attachments/assets/169ad1ba-f0fe-40b1-9496-1b753e2ac9ae"/>
 </p>
 
-## [HVDC](https://github.com/Rhetticle/HVDC) - High Voltage Arc Lighter
+<!-- : ## [HVDC](https://github.com/Rhetticle/HVDC) - High Voltage Arc Lighter 
 ![image](https://github.com/user-attachments/assets/4a807c4b-4983-4de0-8279-ec2f57c23545)
 <img src="https://github.com/user-attachments/assets/b4b73c00-4507-44e3-9f8e-e0f8185a05a1" width=400 height=640>
-
+-->
 ## [UFV](https://github.com/TheZ0/UFV) - Unmanned Firefighting Vehicle
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4818b08c-c6d4-452a-b9e3-e6b291eeaee8"/>
