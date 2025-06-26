@@ -9,6 +9,10 @@
 <img src="https://github.com/user-attachments/assets/047af45c-25d6-46ad-b2ba-10ef2049fbb9" width=400>
 <img src="https://github.com/user-attachments/assets/c9065faa-f549-4683-857e-e24539f3485a" width=400>
 
+## [Loggy](https://github.com/Rhetticle/Loggy) - Data Acquisition Device
+
+<img src = "https://github.com/user-attachments/assets/0f863ea0-10e6-4386-99f6-32a302d0322d" width=800>
+
 ## [Ruthless RFID](https://github.com/TheZ0/Ruthless-RFID) - RFID reader/writer/cloner compliant with ISO/IEC 14443
 <p align="center">
   <img src="https://github.com/user-attachments/assets/169ad1ba-f0fe-40b1-9496-1b753e2ac9ae"/>
